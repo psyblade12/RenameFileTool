@@ -1,0 +1,10 @@
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\bin\Debug\RenameFileTool.exe.config
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\bin\Debug\RenameFileTool.exe
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\bin\Debug\RenameFileTool.pdb
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\obj\Debug\RenameFileTool.csprojResolveAssemblyReference.cache
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\obj\Debug\RenameFileTool.Form1.resources
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\obj\Debug\RenameFileTool.Properties.Resources.resources
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\obj\Debug\RenameFileTool.csproj.GenerateResource.Cache
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\obj\Debug\RenameFileTool.exe
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\obj\Debug\RenameFileTool.pdb
+c:\users\thuan\documents\visual studio 2015\Projects\RenameFileTool\RenameFileTool\obj\Debug\RenameFileTool.About.resources
